@@ -1,0 +1,14 @@
+Deployment
+
+$ git config --global user.name
+should be your name, i.e. Achille TRAORE
+$ git config --global user.email
+should be your email, i.e. ali.achille.traore@gmail.com
+
+To fix either, just add the desired value in quotes after the command:
+$ git config --global user.name “Achille TRAORE”
+$ git config --global user.email ali.achille.traore@gmail.com@gmail.com"
+
+
+Add the files(here TechHive_demo) into your staging area. #git status
+On branch master Initial 
